@@ -3,6 +3,7 @@
 <h3 align="center">BMSTU student, ML engineer </h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=123-39&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=123-39)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **123-39/123-39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
